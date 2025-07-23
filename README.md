@@ -1,2 +1,2 @@
 
-![stats](https://github-readme-stats.vercel.app/api?username=samcalthrop&show_icons=true&theme=dracula)
+![stats](https://github-readme-stats.vercel.app/api?username=samcalthrop&show_icons=true&theme=transparent)
